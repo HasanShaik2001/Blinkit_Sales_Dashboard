@@ -5,7 +5,7 @@
 This project aims to provide the sales performance of an company called Blinkit over the last years. By analysing various aspects of data we seek to identify trends, make data-driven decisions and get deep understanding of the company's performance.
 
 ## Data Sources
-Superstore Data :- The primary data file used for this analysis is named as " Superstore_ Data " . This file contains the detaled information about the sales of the company.
+BlinkIT Grocery Data.xlsx :- The primary data file used for this analysis is named as " BlinkIT Grocery Data.xlsx " . This file contains the detaled information about the sales of the company.
 
 ## Tools Used
 Power Bi [ Data Cleaning]
